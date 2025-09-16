@@ -1,9 +1,14 @@
 <h2>Initial tasks</h2>
-- Create a repository
-- Build a website
-- Add recipes
-  -- link from home
-  -- link to home
+
+1. Create a repository
+
+2. Build a website
+
+3. Add recipes
+
+   a) link from home
+
+   b) link to home
 
 
 <h2>Attribution</h2>
